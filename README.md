@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/developer69007/Assingment3rdsem/tree/master/0018-4sum) |
+| [0046-permutations](https://github.com/developer69007/Assingment3rdsem/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/developer69007/Assingment3rdsem/tree/master/0043-multiply-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/developer69007/Assingment3rdsem/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
