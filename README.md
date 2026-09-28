@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/developer69007/Assingment3rdsem/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/developer69007/Assingment3rdsem/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/developer69007/Assingment3rdsem/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
