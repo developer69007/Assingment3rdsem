@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/developer69007/Assingment3rdsem/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0061-rotate-list) |
 ## Sorting
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/developer69007/Assingment3rdsem/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/developer69007/Assingment3rdsem/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
