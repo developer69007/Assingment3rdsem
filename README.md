@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/developer69007/Assingment3rdsem/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/developer69007/Assingment3rdsem/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
@@ -40,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/developer69007/Assingment3rdsem/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/developer69007/Assingment3rdsem/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
