@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/developer69007/Assingment3rdsem/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/developer69007/Assingment3rdsem/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/developer69007/Assingment3rdsem/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/developer69007/Assingment3rdsem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/developer69007/Assingment3rdsem/tree/master/0060-permutation-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/developer69007/Assingment3rdsem/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
