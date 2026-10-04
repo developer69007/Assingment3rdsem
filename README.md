@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/developer69007/Assingment3rdsem/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/developer69007/Assingment3rdsem/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/developer69007/Assingment3rdsem/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/developer69007/Assingment3rdsem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/developer69007/Assingment3rdsem/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/developer69007/Assingment3rdsem/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/developer69007/Assingment3rdsem/tree/master/0076-minimum-window-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/developer69007/Assingment3rdsem/tree/master/0142-linked-list-cycle-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/developer69007/Assingment3rdsem/tree/master/0148-sort-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/developer69007/Assingment3rdsem/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
